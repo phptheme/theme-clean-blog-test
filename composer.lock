@@ -41,12 +41,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/phptheme/theme-clean-blog.git",
-                "reference": "a39d74a22160ed0789f573ccedf0d8e254987c72"
+                "reference": "cfbde995c9c7579d75a2ac7e74e4edfccafeb378"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phptheme/theme-clean-blog/zipball/a39d74a22160ed0789f573ccedf0d8e254987c72",
-                "reference": "a39d74a22160ed0789f573ccedf0d8e254987c72",
+                "url": "https://api.github.com/repos/phptheme/theme-clean-blog/zipball/cfbde995c9c7579d75a2ac7e74e4edfccafeb378",
+                "reference": "cfbde995c9c7579d75a2ac7e74e4edfccafeb378",
                 "shasum": ""
             },
             "require": {
@@ -59,7 +59,7 @@
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
-            "time": "2019-07-06T11:15:29+00:00"
+            "time": "2019-07-06T14:20:06+00:00"
         },
         {
             "name": "phptheme/view",
