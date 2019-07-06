@@ -1,0 +1,89 @@
+[
+    {
+        "name": "phptheme/core",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/phptheme/core.git",
+            "reference": "32440aeb3745ff6865b7eb548adb95e85bc0c79f"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/phptheme/core/zipball/32440aeb3745ff6865b7eb548adb95e85bc0c79f",
+            "reference": "32440aeb3745ff6865b7eb548adb95e85bc0c79f",
+            "shasum": ""
+        },
+        "require": {
+            "phptheme/view": "dev-master"
+        },
+        "time": "2019-07-05T16:00:36+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "PhpTheme\\Core\\": ""
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ]
+    },
+    {
+        "name": "phptheme/theme-clean-blog",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/phptheme/theme-clean-blog.git",
+            "reference": "a39d74a22160ed0789f573ccedf0d8e254987c72"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/phptheme/theme-clean-blog/zipball/a39d74a22160ed0789f573ccedf0d8e254987c72",
+            "reference": "a39d74a22160ed0789f573ccedf0d8e254987c72",
+            "shasum": ""
+        },
+        "require": {
+            "phptheme/core": "dev-master"
+        },
+        "time": "2019-07-06T11:15:29+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "PhpTheme\\CleanBlogTheme\\": ""
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/"
+    },
+    {
+        "name": "phptheme/view",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/phptheme/view.git",
+            "reference": "b213532397a5516510345c88211e82d4750f2c8e"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/phptheme/view/zipball/b213532397a5516510345c88211e82d4750f2c8e",
+            "reference": "b213532397a5516510345c88211e82d4750f2c8e",
+            "shasum": ""
+        },
+        "time": "2019-07-05T15:35:14+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "PhpTheme\\View\\": ""
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ]
+    }
+]
